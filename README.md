@@ -57,6 +57,8 @@ AgriBot is a WhatsApp-based chatbot designed to support farmers by providing rea
    - The system is integrated with our custom website, Pharm Tech System.
    - Farmers can monitor the functioning of every sensor in their farm through the website.
    - Detect plant diseases, monitor crop health, track climate actions in their area, and receive tailored recommendations to optimize farming practices.
+https://huggingface.co/spaces/Neurolingua/Smart-Agri-system
+
 
 This addition highlights the integration of your chatbot with the Pharm Tech System, providing farmers with comprehensive monitoring and analysis tools.
 
